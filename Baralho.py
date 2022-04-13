@@ -1,4 +1,5 @@
 # Baralho = coleçao de cartas (lista de cartas)
+# Bruna, Mellanie e Gabriel
 from Carta import Carta
 
 class BaralhoException(Exception):
